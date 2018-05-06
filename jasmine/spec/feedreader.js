@@ -89,16 +89,7 @@ $(function() {
          * the use of Jasmine's beforeEach and asynchronous done() function.
          */
     describe('Initial Entries',function() {
-        /*var aj = $.ajax;
-   *     beforeEach(function(done) {
-    *       aj.success(function() {
-    *        done();
-    *       });
-    *    });
-    *    it('ensure that when loadFeed is called there is at least a single .entry element in .feed container', function() {
-    *        expect($('.entry') !== null).toBe(true);
-    *        //done();
-    *    });*/
+        
     });
 
 
