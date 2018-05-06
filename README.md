@@ -1,11 +1,11 @@
 # Feed Reader (Unit tested by Jasmine)
 
 ### Contents:
-1. [Description](#description).
-2. [App page](#app-page).
-3. [Instructions](#instructions).
-4. [Dependencies](#dependencies).
-5. [License](#license).
+1. [Description](#1-description).
+2. [App page](#2-app-page).
+3. [Instructions](#3-instructions).
+4. [Dependencies](#4-dependencies).
+5. [License](#5-license).
 
 ## 1. Description
 
