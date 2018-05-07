@@ -70,7 +70,7 @@ $(function() {
        /*Test ensures that there is at least a single entry with feed container when
         the loaFeed function is called.*/
         it('ensure there is at least a single .entry within .feed', function(done) {
-            var entryLength = $('.entry').length;
+            var entryLength = $('.feed .entry').length;
             expect(entryLength).toBeGreaterThan(0);
             done();
         });
