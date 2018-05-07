@@ -89,6 +89,7 @@ $(function() {
                 });
             });
         });
+        
         //Test ensures that when a new feed is loaded content changes.
         it('new feed content changes', function(done) {
             expect(initialFeed != newFeed).toBe(true);
