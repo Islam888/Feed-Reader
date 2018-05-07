@@ -21,7 +21,8 @@
 
 
 ## 3. Instructions
-
+- To run the app online visit [app page](https://islam888.github.io/Feed-Reader/).
+- To run the app locally (on your machine) by downloading a zip format using this link https://github.com/Islam888/Frogger-Game/archive/master.zip. Then you will have to unzip it and open `index.html` file from your browser to start the app.
 - By loading the app page tests results are presented at the bottom of the page.
 - In order to pass it should present 7 specs with 0 failures.
 
